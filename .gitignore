@@ -29,6 +29,7 @@ apiKey.php
 api/*/images
 api/pix/config.py
 api/pix/__pycache__
+api/twi/__pycache__
 api/pix/pixiv_auth.py
 
 getTweetInfo.py

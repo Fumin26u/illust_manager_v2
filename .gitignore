@@ -1,0 +1,39 @@
+.DS_Store
+node_modules
+/dist
+/vendor
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+system-conf.php
+commonlib.php
+GitHub Usage.md
+apiKey.php
+api/*/images
+api/pix/config.py
+api/pix/__pycache__
+api/twi/__pycache__
+api/pix/pixiv_auth.py
+
+getTweetInfo.py
+userData.ts
+tagList.py
+chromedriver.exe
+twitterPassword.py
